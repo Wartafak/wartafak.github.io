@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://wartafak.github.io/sitemap.xml
